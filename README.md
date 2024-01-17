@@ -1,0 +1,1 @@
+This project is for recipes, a practice from the Odin Project webpage.
